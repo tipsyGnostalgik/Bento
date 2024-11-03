@@ -139,20 +139,40 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'That one playlist',
+					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'That one playlist',
+					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'That one playlist',
+					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'That one playlist',
+					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
+				},
+				{
+			icon: 'rabbit',
+			id: '2',
+			links: [
+				{
+					name: 'SFM Lab',
+					link: 'https://sfmlab.com/',
+				},
+				{
+					name: 'Open 3D Labs',
+					link: 'https://open3dlab.com/',
+				},
+				{
+					name: 'YouTube',
+					link: 'https://www.youtube.com/',
+				},
+				{
+					name: 'Normalsville',
+					link: 'https://normalsville.the-comic.org/',
 				},
 			],
 		},
@@ -161,19 +181,19 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'rat',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Bluesky',
+					link: 'https://bsky.app/',
 				},
 				{
-					name: 'Hashnode',
+					name: 'My Website',
 					link: 'https://www.hashnode.com',
 				},
 				{

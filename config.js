@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
-			name: 'My Website',
-			icon: 'crown',
-			link: 'https://ndscartridges.neocities.org/',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
 		},
 		{
 			id: '4',
-			name: 'Bluesky',
-			icon: 'rabbit',
-			link: 'https://bsky.app/',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '5',
-			name: 'Twitter',
-			icon: 'twitter',
+			name: 'Reddit',
+			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'YouTube',
+			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://odysee.com/',
 		},
 	],
 
@@ -143,36 +143,38 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
 				},
 				{
-					name: 'That one playlist',
-					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
+					name: 'Persona 5',
+					link: 'https://www.youtube.com/watch?v=SmQ1ZXTHNKA&list=PLZuZrScKjWOMAEEBEGTmAGtmmlg6QY7bC',
 				},
 				{
-					name: 'That one playlist',
-					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
+					name: 'Jet Set Radio Future',
+					link: 'https://www.youtube.com/watch?v=HSZIej-ZraE&list=PL76189ACDF51A510C',
 				},
 				{
-					name: 'That one playlist',
-					link: 'https://www.youtube.com/watch?v=zbC1nmp82I4&list=PLUXTKm9dp3EE82HNNnZfUdbV3a59THflr&pp=gAQBiAQB',
+					name: 'Guilty Gear Strive',
+					link: 'https://www.youtube.com/watch?v=2GcKrCnDBf4&list=PLaOzaw25y33lb1kUwY0izBjv-EAymMFul',
 				},
-				{
+			],
+		},
+		{
 			icon: 'rabbit',
 			id: '2',
 			links: [
 				{
-					name: 'SFM Lab',
-					link: 'https://sfmlab.com/',
+					name: 'CDRomance',
+					link: 'https://cdromance.org/',
 				},
 				{
-					name: 'Open 3D Labs',
-					link: 'https://open3dlab.com/',
+					name: 'NoPayStation',
+					link: 'https://nopaystation.com/',
 				},
 				{
-					name: 'YouTube',
-					link: 'https://www.youtube.com/',
+					name: 'Fitgirl',
+					link: 'https://fitgirl-repacks.site/',
 				},
 				{
-					name: 'Normalsville',
-					link: 'https://normalsville.the-comic.org/',
+					name: 'nyaa.si',
+					link: 'https://nyaa.si/',
 				},
 			],
 		},
@@ -185,16 +187,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Tumblr',
+					link: 'https://www.tumblr.com',
+				},
+				{
 					name: 'Twitter',
-					link: 'https://twitter.com/',
+					link: 'https://www.twitter.com',
 				},
 				{
 					name: 'Bluesky',
-					link: 'https://bsky.app/',
-				},
-				{
-					name: 'My Website',
-					link: 'https://www.hashnode.com',
+					link: 'https://www.bsky.app',
 				},
 				{
 					name: 'Pocket',
